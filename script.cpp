@@ -4,6 +4,7 @@
 using std ;
 
 int main(){
-  printf("");
+  printf("hellow world");
+  system("pause")
 }
 
