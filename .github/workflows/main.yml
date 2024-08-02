@@ -2,7 +2,7 @@ name: windo-main
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/45 * * * *'
+    - cron: '*/34 * * * *'
 jobs:
   build:
     name: Start
